@@ -8,4 +8,10 @@
   align-items: center;
   display: flex;
   margin-top: 50px;
-justify-content: center;}
+justify-content: center;
+}
+
+
+.btn-primary{
+	width: 100%
+}
